@@ -1,1 +1,2 @@
 div
+-> fix divide 0
